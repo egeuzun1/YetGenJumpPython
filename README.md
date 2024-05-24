@@ -1,5 +1,4 @@
 # YetGenJumpPython
-<<<<<<< HEAD
 Bu repository Jump Python için açılmıştır.
 =======
 # 💫 About Me:
