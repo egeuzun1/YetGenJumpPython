@@ -1,5 +1,4 @@
 # YetGen JumpPython
-=======
 # 💫 About Me:
 I am passionate learner about Coding and Python. I am interested in learning new languages and also fond of playing Tennis.
 
