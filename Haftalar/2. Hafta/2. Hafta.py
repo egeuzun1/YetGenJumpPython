@@ -1,0 +1,2 @@
+print("ege")
+input("naber")
