@@ -1,2 +1,0 @@
-print("ege")
-input("naber")
