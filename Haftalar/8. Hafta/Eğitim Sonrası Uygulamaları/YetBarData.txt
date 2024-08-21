@@ -1,0 +1,2 @@
+(Kullanıcı İsmi, Tarih, İçecek İsmi, İçerik, Fiyat(TL))
+(Ege, 29.10.1923, ÇiMuAn, ['Çilek', 'Muz', 'Ananas'], 41)

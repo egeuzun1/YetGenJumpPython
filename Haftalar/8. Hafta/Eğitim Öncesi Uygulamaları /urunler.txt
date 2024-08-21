@@ -1,0 +1,6 @@
+
+(Günlük Süt,45)
+(Tagliatelle Makarna,75)
+(Toz Parmesan,175)
+(Pesto Sos,60)
+(Sarımsak(Kg),40)
