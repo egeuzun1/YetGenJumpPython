@@ -1,0 +1,12 @@
+
+"TRT1" : 1,
+"ShowTV" : 2,
+"ATV" : 3,
+"NOW" : 4,
+"StarTV" : 5,
+"KanalD" : 6,
+"CNN Türk" : 7,
+"TV8" : 8,
+"Disney Channel" : 9,
+"Nickelodeon" : 10,
+
